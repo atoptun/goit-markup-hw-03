@@ -1,2 +1,3 @@
-# goit-markup-hw-02
-Neoversity. HTML&amp;CSS. Homeworks 2
+# goit-markup-hw-03
+
+Neoversity. HTML&amp;CSS. Homeworks 3
